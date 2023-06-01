@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/QUTEST/Computer_restored/simulation/qsim
+vComputer
+Z0 !s110 1685177612
+!i10b 1
+!s100 hG82dY`UCVc_]32H^1iaA3
+IG61EP1nZHdGz[AlF4c[7g0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/Computer_restored/simulation/qsim
+Z3 w1685177610
+Z4 8Computer.vo
+Z5 FComputer.vo
+L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1685177612.000000
+Z8 !s107 Computer.vo|
+Z9 !s90 -work|work|Computer.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@computer
+vComputer_vlg_vec_tst
+R0
+!i10b 1
+!s100 3OfSaklSLYVJTV_eWNGZH2
+IFccnR]9I4g4bN355PST6H1
+R1
+R2
+w1685177609
+8Waveform9.vwf.vt
+FWaveform9.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform9.vwf.vt|
+!s90 -work|work|Waveform9.vwf.vt|
+!i113 1
+R10
+R11
+n@computer_vlg_vec_tst
+vhard_block
+R0
+!i10b 1
+!s100 iLXl3?;<:klGQReJ[zfaN1
+I3cG019Aml=Fm9KQ_emRZd0
+R1
+R2
+R3
+R4
+R5
+L0 9628
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
